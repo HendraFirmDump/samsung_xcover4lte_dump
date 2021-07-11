@@ -1,0 +1,290 @@
+272             // Number of arguments
+4               // LVVIDHeader_HeaderVersion
+10              // LVVIDHeader_MajorBaselineVersion
+0               // LVVIDHeader_MinorBaselineVersion
+0               // LVVIDHeader_MinorMinorBaselineVersion
+2               // LVVIDHeader_PatchBaselineVersion
+3061            // LVVIDHeader_LVVE_Rx_AlgoMask1
+0               // LVVIDHeader_LVVE_Rx_AlgoMask2
+12797           // LVVIDHeader_LVVE_Tx_AlgoMask1
+0               // LVVIDHeader_LVVE_Tx_AlgoMask2
+20              // LVVIDHeader_LVVE_Config_AlgoMask1
+1               // LVVIDHeader_LVVE_Config_AlgoMask2
+0               // LVVIDHeader_MessageID
+3               // LVVIDHeader_SampleRate
+0               // LVVIDHeader_VolumeIndex
+8               // LVVIDHeader_NumVolumes
+
+// Volume Independent Parameters
+1               // LVVE_Rx_OperatingMode
+0               // LVVE_Rx_LVINPUTMIXER_InputGain
+0               // LVVE_Rx_LVMUTE_OperatingMode
+1               // LVVE_Rx_LVVOL_OperatingMode
+1               // LVVE_Rx_LVFENS_OperatingMode
+8192            // LVVE_Rx_LVFENS_FENS_limit_NS
+96              // LVVE_Rx_LVFENS_FENS_NoiseThreshold
+1               // LVVE_Rx_LVEQ_OperatingMode
+64              // LVVE_Rx_LVEQ_Length
+1721
+1296
+164
+-274
+-95
+135
+133
+3
+-58
+14
+70
+56
+1
+-27
+20
+56
+18
+-17
+0
+28
+19
+-1
+-5
+7
+12
+6
+-2
+-1
+3
+4
+2
+-1
+-2
+0
+1
+2
+-2
+-2
+-1
+3
+0
+-1
+-2
+-1
+-1
+-1
+-3
+-2
+-1
+-1
+-2
+-2
+-4
+-2
+-2
+-2
+-3
+-3
+-4
+-2
+-3
+-3
+-4
+-1
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_64
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_65
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_66
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_67
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_68
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_69
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_70
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_71
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_72
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_73
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_74
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_75
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_76
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_77
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_78
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_79
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_80
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_81
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_82
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_83
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_84
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_85
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_86
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_87
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_88
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_89
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_90
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_91
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_92
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_93
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_94
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_95
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_96
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_97
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_98
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_99
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_100
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_101
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_102
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_103
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_104
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_105
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_106
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_107
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_108
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_109
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_110
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_111
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_112
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_113
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_114
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_115
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_116
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_117
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_118
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_119
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_120
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_121
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_122
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_123
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_124
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_125
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_126
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_127
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_128
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_129
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_130
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_131
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_132
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_133
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_134
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_135
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_136
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_137
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_138
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_139
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_140
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_141
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_142
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_143
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_144
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_145
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_146
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_147
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_148
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_149
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_150
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_151
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_152
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_153
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_154
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_155
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_156
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_157
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_158
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_159
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_160
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_161
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_162
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_163
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_164
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_165
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_166
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_167
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_168
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_169
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_170
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_171
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_172
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_173
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_174
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_175
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_176
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_177
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_178
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_179
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_180
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_181
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_182
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_183
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_184
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_185
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_186
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_187
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_188
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_189
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_190
+0               // LVVE_Rx_LVEQ_Coefs_Coefs_191
+1               // LVVE_Rx_LVDRC_OperatingMode
+5               // LVVE_Rx_LVDRC_NumKnees
+-96             // LVVE_Rx_LVDRC_CompressorCurveInputLevels_CompressorCurveInputLevels_0
+-83             // LVVE_Rx_LVDRC_CompressorCurveInputLevels_CompressorCurveInputLevels_1
+-78             // LVVE_Rx_LVDRC_CompressorCurveInputLevels_CompressorCurveInputLevels_2
+-6              // LVVE_Rx_LVDRC_CompressorCurveInputLevels_CompressorCurveInputLevels_3
+0               // LVVE_Rx_LVDRC_CompressorCurveInputLevels_CompressorCurveInputLevels_4
+-96             // LVVE_Rx_LVDRC_CompressorCurveOutputLevels_CompressorCurveOutputLevels_0
+-95             // LVVE_Rx_LVDRC_CompressorCurveOutputLevels_CompressorCurveOutputLevels_1
+-78             // LVVE_Rx_LVDRC_CompressorCurveOutputLevels_CompressorCurveOutputLevels_2
+-6              // LVVE_Rx_LVDRC_CompressorCurveOutputLevels_CompressorCurveOutputLevels_3
+-5              // LVVE_Rx_LVDRC_CompressorCurveOutputLevels_CompressorCurveOutputLevels_4
+50              // LVVE_Rx_LVDRC_AttackTime
+400             // LVVE_Rx_LVDRC_ReleaseTime
+1               // LVVE_Rx_LVDRC_LimiterOperatingMode
+-4              // LVVE_Rx_LVDRC_LimitLevel
+1               // LVVE_Rx_LVHPF_OperatingMode
+150             // LVVE_Rx_LVHPF_CornerFreq
+0               // LVVE_Rx_LVCNG_OperatingMode
+-86             // LVVE_Rx_LVCNG_Volume
+0               // LVVE_Rx_LVWM_OperatingMode
+7               // LVVE_Rx_LVWM_mode
+16384           // LVVE_Rx_LVWM_AVL_Target_level_lin
+128             // LVVE_Rx_LVWM_AVL_MinGainLin
+8192            // LVVE_Rx_LVWM_AVL_MaxGainLin
+25520           // LVVE_Rx_LVWM_AVL_Attack
+32685           // LVVE_Rx_LVWM_AVL_Release
+23197           // LVVE_Rx_LVWM_AVL_Limit_MaxOutputLin
+9216            // LVVE_Rx_LVWM_SpDetect_Threshold
+1               // LVVE_Rx_LVNG_OperatingMode
+5               // LVVE_Rx_LVNG_NumKnees
+-80             // LVVE_Rx_LVNG_CompressorCurveInputLevels_CompressorCurveInputLevels_0
+-70             // LVVE_Rx_LVNG_CompressorCurveInputLevels_CompressorCurveInputLevels_1
+-68             // LVVE_Rx_LVNG_CompressorCurveInputLevels_CompressorCurveInputLevels_2
+-24             // LVVE_Rx_LVNG_CompressorCurveInputLevels_CompressorCurveInputLevels_3
+0               // LVVE_Rx_LVNG_CompressorCurveInputLevels_CompressorCurveInputLevels_4
+-96             // LVVE_Rx_LVNG_CompressorCurveOutputLevels_CompressorCurveOutputLevels_0
+-86             // LVVE_Rx_LVNG_CompressorCurveOutputLevels_CompressorCurveOutputLevels_1
+-68             // LVVE_Rx_LVNG_CompressorCurveOutputLevels_CompressorCurveOutputLevels_2
+-24             // LVVE_Rx_LVNG_CompressorCurveOutputLevels_CompressorCurveOutputLevels_3
+0               // LVVE_Rx_LVNG_CompressorCurveOutputLevels_CompressorCurveOutputLevels_4
+50              // LVVE_Rx_LVNG_AttackTime
+1000            // LVVE_Rx_LVNG_ReleaseTime
+0               // LVVE_Rx_LVNF_OperatingMode
+10              // LVVE_Rx_LVNF_Attenuation
+800             // LVVE_Rx_LVNF_Frequency
+120             // LVVE_Rx_LVNF_QFactor
+
+// Volume 0
+-21             // LVVE_Rx_LVVOL_Gain
+
+// Volume 1
+-18             // LVVE_Rx_LVVOL_Gain
+
+// Volume 2
+-15             // LVVE_Rx_LVVOL_Gain
+
+// Volume 3
+-12             // LVVE_Rx_LVVOL_Gain
+
+// Volume 4
+-9              // LVVE_Rx_LVVOL_Gain
+
+// Volume 5
+-6              // LVVE_Rx_LVVOL_Gain
+
+// Volume 6
+-3              // LVVE_Rx_LVVOL_Gain
+
+// Volume 7
+0               // LVVE_Rx_LVVOL_Gain

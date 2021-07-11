@@ -1,0 +1,20 @@
+# icd
+service icd /vendor/bin/icd
+    class main
+    user system
+    group system log
+    onrestart check_icd
+    disabled
+    oneshot
+
+on early-fs
+# icd
+    check_icd
+    chown system system /dev/icd
+    chmod 0644 /dev/icd
+    chown system system /dev/icdr
+    chmod 0644 /dev/icdr
+    restorecon /dev/icd
+    restorecon /dev/icdr
+# start icd before vold
+    start icd
